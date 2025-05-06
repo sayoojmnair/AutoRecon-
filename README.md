@@ -35,13 +35,7 @@ AutoRecon is an open-source, lightweight, and user-friendly web vulnerability sc
 
 ## 📎 Project Structure
 
-AutoRecon/
-├── recon.py # Domain recon, WHOIS, subdomain finding
-├── scanner.py # Scans for vulnerabilities
-├── reporter.py # Generates reports
-├── config.json # Configurable options (optional)
-├── wordlist.txt # Custom wordlist for dir enum
-└── README.md # Project description
+<pre> ```bash AutoRecon/ ├── research-paper/ │ └── final_research_paper.pdf # Converted PDF of your project report │ ├── presentation/ │ └── project_presentation.pptx # Project presentation slides │ ├── tool/ │ ├── source_code/ │ │ ├── recon.py # Domain recon, WHOIS, subdomain finding │ │ ├── scanner.py # Scans for vulnerabilities │ │ ├── reporter.py # Generates reports │ │ ├── config.json # Configurable options (optional) │ │ └── wordlist.txt # Custom wordlist for directory enumeration │ │ │ ├── requirements.txt # Python dependencies │ └── README.md # Documentation for tool usage │ ├── demo/ │ └── demo_video_link.txt # Link to your project demo video (YouTube) │ ├── LICENSE # Project license (e.g., MIT) └── README.md # Main project overview ``` </pre>
 
 
 ## 🎯 Intended Users
